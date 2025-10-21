@@ -1,3 +1,4 @@
+HEAD
 # Integrated Mine Planning - Interactive Educational Platform
 
 An immersive, interactive web application that teaches the fundamentals of integrated mine planning through engaging visualizations, simulations, and real-world examples.
@@ -171,3 +172,6 @@ Based on the comprehensive guide "Unlocking Value: A Beginner's Guide to Integra
 
 **Built with ❤️ for the mining education community**
 "# Mine-integration-app" 
+
+# Mine-integration-app
+ b1338a44cdf469544019df0d80f9e64da91e1686
